@@ -14,3 +14,8 @@ Either reads local location data stored in JSON, or pings API
 for geo coordinates.
 
 Uses folium library to output a pretty map in HTML to visualize data.
+
+# requirments:
+folium      for generating a map in HTML
+tabula-py   for parsing table from PDF file
+pandas      for dataframe and processing
